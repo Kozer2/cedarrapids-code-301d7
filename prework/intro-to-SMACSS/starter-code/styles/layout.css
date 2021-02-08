@@ -1,0 +1,40 @@
+
+
+ nav ul {
+    float: right;
+  }
+  
+  nav li {
+    float: left;
+    padding-right: 2px;
+  }
+
+footer section p{
+    padding: 50px 0;
+    line-height: 1.5em;
+    text-align: center;
+    color: #aaa;
+  }
+
+  hr {
+    clear: both;
+    border: 0;
+    height: 13px;
+    background-image: url('../img/hr.png');
+  }
+
+  aside {
+    padding-top: 30px;
+    padding-bottom: 60px
+  }
+
+  aside button {
+    float: right;
+    font-family: 'Abel', sans-serif;
+    text-transform: uppercase;
+    padding: 15px 40px;
+    background: #b8705a;
+    color: #fff;
+    font-size: 1.2em;
+    border: none;
+  }
